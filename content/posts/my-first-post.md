@@ -4,8 +4,10 @@ draft = false
 title = 'My First Post'
 +++
 
-## Hello Hugo
+## Hello 
 
+
+I am Leonard XIA 
 
 This is my first Hugo page
 
